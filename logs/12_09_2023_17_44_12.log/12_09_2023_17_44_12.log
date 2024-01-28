@@ -1,0 +1,4 @@
+[2023-12-09 17:44:16,062] 28 root - INFO - Data Ingestion method starts
+[2023-12-09 17:44:16,267] 32 root - INFO - dataset read as pandas dataframe
+[2023-12-09 17:44:17,332] 37 root - INFO - Raw data is created
+[2023-12-09 17:44:18,455] 43 root - INFO - Train and Test datasets are created /n Ingestion of data DONE

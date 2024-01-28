@@ -1,0 +1,19 @@
+[2024-01-28 20:29:01,613] 96 werkzeug - WARNING -  * Debugger is active!
+[2024-01-28 20:29:01,628] 96 werkzeug - INFO -  * Debugger PIN: 129-148-436
+[2024-01-28 20:29:52,723] 96 werkzeug - INFO - 127.0.0.1 - - [28/Jan/2024 20:29:52] "GET / HTTP/1.1" 200 -
+[2024-01-28 20:29:52,826] 96 werkzeug - INFO - 127.0.0.1 - - [28/Jan/2024 20:29:52] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2024-01-28 20:30:30,095] 96 werkzeug - INFO - 127.0.0.1 - - [28/Jan/2024 20:30:30] "GET / HTTP/1.1" 200 -
+[2024-01-28 20:30:38,109] 96 werkzeug - INFO - 127.0.0.1 - - [28/Jan/2024 20:30:38] "GET /predict HTTP/1.1" 200 -
+[2024-01-28 20:31:15,097] 65 root - INFO - Dataframe Gathered
+[2024-01-28 20:31:19,558] 96 werkzeug - INFO - 127.0.0.1 - - [28/Jan/2024 20:31:19] "POST /predict HTTP/1.1" 200 -
+[2024-01-28 20:34:01,353] 65 root - INFO - Dataframe Gathered
+[2024-01-28 20:34:04,634] 96 werkzeug - INFO - 127.0.0.1 - - [28/Jan/2024 20:34:04] "POST /predict HTTP/1.1" 200 -
+[2024-01-28 20:34:28,081] 65 root - INFO - Dataframe Gathered
+[2024-01-28 20:34:30,970] 96 werkzeug - INFO - 127.0.0.1 - - [28/Jan/2024 20:34:30] "POST /predict HTTP/1.1" 200 -
+[2024-01-28 20:34:49,191] 65 root - INFO - Dataframe Gathered
+[2024-01-28 20:34:51,318] 96 werkzeug - INFO - 127.0.0.1 - - [28/Jan/2024 20:34:51] "POST /predict HTTP/1.1" 200 -
+[2024-01-28 20:44:07,270] 65 root - INFO - Dataframe Gathered
+[2024-01-28 20:44:10,355] 96 werkzeug - INFO - 127.0.0.1 - - [28/Jan/2024 20:44:10] "POST /predict HTTP/1.1" 200 -
+[2024-01-28 20:44:35,894] 65 root - INFO - Dataframe Gathered
+[2024-01-28 20:44:38,147] 96 werkzeug - INFO - 127.0.0.1 - - [28/Jan/2024 20:44:38] "POST /predict HTTP/1.1" 200 -
+[2024-01-28 20:47:48,994] 96 werkzeug - INFO -  * Detected change in 'R:\\HuB\\ESPERANTO\\Data_Science\\MachineLearningEndToEndProject\\RegressionModel\\DiamondPricePrediction2.0\\application.py', reloading

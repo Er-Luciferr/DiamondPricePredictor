@@ -1,0 +1,17 @@
+[2023-12-10 21:58:52,427] 96 werkzeug - WARNING -  * Debugger is active!
+[2023-12-10 21:58:52,432] 96 werkzeug - INFO -  * Debugger PIN: 114-837-020
+[2023-12-10 21:59:30,718] 96 werkzeug - INFO - 127.0.0.1 - - [10/Dec/2023 21:59:30] "GET / HTTP/1.1" 200 -
+[2023-12-10 21:59:30,933] 96 werkzeug - INFO - 127.0.0.1 - - [10/Dec/2023 21:59:30] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2023-12-10 21:59:41,458] 96 werkzeug - INFO - 127.0.0.1 - - [10/Dec/2023 21:59:41] "GET /predict HTTP/1.1" 200 -
+[2023-12-10 21:59:45,086] 96 werkzeug - INFO - 127.0.0.1 - - [10/Dec/2023 21:59:45] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[2023-12-10 21:59:45,349] 96 werkzeug - INFO - 127.0.0.1 - - [10/Dec/2023 21:59:45] "GET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[2023-12-10 21:59:45,354] 96 werkzeug - INFO - 127.0.0.1 - - [10/Dec/2023 21:59:45] "GET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[2023-12-10 21:59:45,437] 96 werkzeug - INFO - 127.0.0.1 - - [10/Dec/2023 21:59:45] "GET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[2023-12-10 21:59:45,471] 96 werkzeug - INFO - 127.0.0.1 - - [10/Dec/2023 21:59:45] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2023-12-10 22:02:04,372] 68 root - INFO - Exception Occured in prediction pipeline
+[2023-12-10 22:02:04,381] 96 werkzeug - INFO - 127.0.0.1 - - [10/Dec/2023 22:02:04] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[2023-12-10 22:02:04,424] 96 werkzeug - INFO - 127.0.0.1 - - [10/Dec/2023 22:02:04] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2023-12-10 22:02:04,428] 96 werkzeug - INFO - 127.0.0.1 - - [10/Dec/2023 22:02:04] "[36mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2023-12-10 22:02:04,471] 96 werkzeug - INFO - 127.0.0.1 - - [10/Dec/2023 22:02:04] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2023-12-10 22:02:04,503] 96 werkzeug - INFO - 127.0.0.1 - - [10/Dec/2023 22:02:04] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2023-12-10 22:04:22,474] 96 werkzeug - INFO -  * Detected change in 'R:\\HuB\\ESPERANTO\\Data_Science\\MachineLearningEndToEndProject\\RegressionModel\\DiamondPricePrediction2.0\\src\\pipeline\\prediction_pipeline.py', reloading

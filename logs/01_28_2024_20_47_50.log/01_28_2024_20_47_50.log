@@ -1,0 +1,9 @@
+[2024-01-28 20:47:53,533] 96 werkzeug - WARNING -  * Debugger is active!
+[2024-01-28 20:47:53,538] 96 werkzeug - INFO -  * Debugger PIN: 129-148-436
+[2024-01-28 20:48:13,578] 65 root - INFO - Dataframe Gathered
+[2024-01-28 20:48:16,293] 96 werkzeug - INFO - 127.0.0.1 - - [28/Jan/2024 20:48:16] "POST /predict HTTP/1.1" 200 -
+[2024-01-28 20:48:38,011] 65 root - INFO - Dataframe Gathered
+[2024-01-28 20:48:40,226] 96 werkzeug - INFO - 127.0.0.1 - - [28/Jan/2024 20:48:40] "POST /predict HTTP/1.1" 200 -
+[2024-01-28 20:49:00,021] 65 root - INFO - Dataframe Gathered
+[2024-01-28 20:49:02,038] 96 werkzeug - INFO - 127.0.0.1 - - [28/Jan/2024 20:49:02] "POST /predict HTTP/1.1" 200 -
+[2024-01-28 20:49:59,836] 96 werkzeug - INFO -  * Detected change in 'r:\\hub\\esperanto\\data_science\\machinelearningendtoendproject\\regressionmodel\\diamondpriceprediction2.0\\application.py', reloading

@@ -1,0 +1,17 @@
+[2023-12-15 17:51:53,655] 96 werkzeug - WARNING -  * Debugger is active!
+[2023-12-15 17:51:53,671] 96 werkzeug - INFO -  * Debugger PIN: 322-585-647
+[2023-12-15 17:52:11,741] 96 werkzeug - INFO - 127.0.0.1 - - [15/Dec/2023 17:52:11] "GET / HTTP/1.1" 200 -
+[2023-12-15 17:52:12,033] 96 werkzeug - INFO - 127.0.0.1 - - [15/Dec/2023 17:52:12] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2023-12-15 17:52:21,285] 96 werkzeug - INFO - 127.0.0.1 - - [15/Dec/2023 17:52:21] "GET /predict HTTP/1.1" 200 -
+[2023-12-15 17:52:42,192] 96 werkzeug - INFO - 127.0.0.1 - - [15/Dec/2023 17:52:42] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[2023-12-15 17:52:42,434] 96 werkzeug - INFO - 127.0.0.1 - - [15/Dec/2023 17:52:42] "GET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[2023-12-15 17:52:42,445] 96 werkzeug - INFO - 127.0.0.1 - - [15/Dec/2023 17:52:42] "GET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[2023-12-15 17:52:42,518] 96 werkzeug - INFO - 127.0.0.1 - - [15/Dec/2023 17:52:42] "GET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[2023-12-15 17:52:42,559] 96 werkzeug - INFO - 127.0.0.1 - - [15/Dec/2023 17:52:42] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2023-12-15 17:52:48,763] 96 werkzeug - INFO - 127.0.0.1 - - [15/Dec/2023 17:52:48] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[2023-12-15 17:52:48,802] 96 werkzeug - INFO - 127.0.0.1 - - [15/Dec/2023 17:52:48] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2023-12-15 17:52:48,806] 96 werkzeug - INFO - 127.0.0.1 - - [15/Dec/2023 17:52:48] "[36mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2023-12-15 17:52:48,829] 96 werkzeug - INFO - 127.0.0.1 - - [15/Dec/2023 17:52:48] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2023-12-15 17:52:48,880] 96 werkzeug - INFO - 127.0.0.1 - - [15/Dec/2023 17:52:48] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2023-12-15 17:53:19,209] 65 root - INFO - Dataframe Gathered
+[2023-12-15 17:53:23,809] 96 werkzeug - INFO - 127.0.0.1 - - [15/Dec/2023 17:53:23] "POST /predict HTTP/1.1" 200 -
